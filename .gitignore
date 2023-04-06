@@ -1,0 +1,8 @@
+assets/
+META-INF/
+com/
+*.mcmeta
+*.info
+*.csv
+*.xlsx
+*.py
